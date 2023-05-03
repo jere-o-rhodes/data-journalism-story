@@ -102,6 +102,8 @@ The data came in various spreadsheets, broken up by year.
 
 <img src="./assets/date-format.jpg">
 
+### [Link to visualization](https://datawrapper.dwcdn.net/cwHP3/1/)
+
 2) The next thing I needed was to separate the month from the day and year of each cell, since I only need the month. To do that, I made another column and titled it "MONTH." I used a formula: =month(cell number) to create a number that corresponds to the month (1 is January, 2 is February, etc.)
 
 <img src="./assets/month-column.jpg">
