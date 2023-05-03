@@ -54,9 +54,9 @@ Attendance at California State Parks has skyrocketed since the pandemic first hi
 
 Martin remembers that the rush was greater than any of his co-workers expected.
 
-<img src="./assets/camping-per-year.jpg">
+<img src="./assets/camping-per-year-upd.jpg">
 
-### [To visualization](https://datawrapper.dwcdn.net/cwHP3/1/)
+### [To visualization](https://datawrapper.dwcdn.net/9h0Uj/2/)
 
 
 “It was unlike most of us had seen,” he said. One of the big changes he recalled were staffing shortages.
