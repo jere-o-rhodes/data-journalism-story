@@ -56,6 +56,9 @@ Martin remembers that the rush was greater than any of his co-workers expected.
 
 <img src="./assets/camping-per-year.jpg">
 
+### [To visualization](https://datawrapper.dwcdn.net/cwHP3/1/)
+
+
 “It was unlike most of us had seen,” he said. One of the big changes he recalled were staffing shortages.
 
 “COVID didn’t just affect the general population. Members of our staff also succumbed to the illness during that time, and other people just had fears about COVID, since most of the staff is dealing with the general public every day,” he said.
@@ -75,6 +78,8 @@ Despite changes in her own attendance, she finds joy in helping new friends of h
 Some of the parks she suggests are Angel Island State Park, Anza Borrego Desert State Park and China Camp State Park.
 
 <img src="./assets/select-campgrounds.jpg">
+
+### [To visualization](https://datawrapper.dwcdn.net/9h0Uj/1/)
 
 Though Fuller doesn’t visit state parks as often anymore, she doesn't see her journey with them as over, but evolving as she does.
 
@@ -101,8 +106,6 @@ The data came in various spreadsheets, broken up by year.
 1) The first thing I noticed was that the format of the dates isn't enough for me to extract each month. To fix this, I changed the date column formate to month/day/year.
 
 <img src="./assets/date-format.jpg">
-
-### [Link to visualization](https://datawrapper.dwcdn.net/cwHP3/1/)
 
 2) The next thing I needed was to separate the month from the day and year of each cell, since I only need the month. To do that, I made another column and titled it "MONTH." I used a formula: =month(cell number) to create a number that corresponds to the month (1 is January, 2 is February, etc.)
 
