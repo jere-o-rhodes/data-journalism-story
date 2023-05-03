@@ -110,6 +110,8 @@ The data came in various spreadsheets, broken up by year.
 
 <img src="./assets/pivot-table.jpg">
 
+4) NOTE: Because some of the files for the eyars were split between Q1 and then April-December (not sure why it was sent to me that way,but you work with what you got), to determine total attendance for the year, I just added each of the Grand Total cells for that year. (I just did the formula to add the grand total for the 2021 Q1 file and the grand total for the Apr-Dec file).
+
 
 # Sources: 
 
