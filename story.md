@@ -98,18 +98,24 @@ Questions to ask in data
 ## Process
 The data came in various spreadsheets, broken up by year. 
 
-1) The first thing I noticed was that the format of the dates isn't enough for me to extract each month. To fix this, I changed the date column formate to month/day/year
+1) The first thing I noticed was that the format of the dates isn't enough for me to extract each month. To fix this, I changed the date column formate to month/day/year.
+
+<img src="./assets/date-format.jpg">
 
 2) The next thing I needed was to separate the month from the day and year of each cell, since I only need the month. To do that, I made another column and titled it "MONTH." I used a formula: =month(cell number) to create a number that corresponds to the month (1 is January, 2 is February, etc.)
 
+<img src="./assets/month-column.jpg">
+
 3) Next, needed to get a count of each month for each park. To find the count for each park, I made a pivot table for each dataset. In that table, I specified the the columns as the "park" column and "MONTH. For the values, you'll do a "count." That gave me the count for each month, and allowed me to do all of my data analysis.
+
+<img src="./assets/pivot-table.jpg">
 
 
 # Sources: 
 
-1. Andrew Lopez: student at UC Berkeley's Graduate School of Journalism. Andrew grew up in California and grew up going to various CA State parks with his family.
+1. Andrew Lopez: student at UC Berkeley's Graduate School of Journalism. Andrew grew up in California and grew up going to various CA State parks with his family. He could serve as the narrative backbone, helping the reader get a feel for what CA State Parks mean to people.
 - email address is andrew_lopez@berkeley.edu
-2. Maggie Fuller: UC Berkeley students. She also grew up camping in CA state parks and has a deep relationship to them. 
+2. Maggie Fuller: UC Berkeley students. She also grew up camping in CA state parks and has a deep relationship to them. Similar to Andrew, she could also add narrative elements to move the story along. If I end up talking to them both, I'll decide which one to use after.
 - email address is mfuller@berkeley.edu
 3. Jorge Moreno: Information Officer for CA State Parks. He can help put me in touch with someone who works for the State Parks to talk about how they prepare for the summer and the affects COVID had on park attendance.
 - His phone number is (916) 661-2598.
