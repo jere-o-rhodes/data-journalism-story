@@ -1,4 +1,6 @@
 # As summer approaches, California's state parks prepare for a rush of visitors
+## Jeremiah O. Rhodes
+### Each year, millions of people from all over the world come to visit California's over 200 state parks. As summer months approach, Park employees prepare for the rush.
 
 Maggie Fuller’s first memory at a California State Park was on an elementary school field trip to Año Nueve State Park, located just west of San Jose. 
 
@@ -52,6 +54,8 @@ Attendance at California State Parks has skyrocketed since the pandemic first hi
 
 Martin remembers that the rush was greater than any of his co-workers expected.
 
+<img src="./assets/camping-per-year.jpg">
+
 “It was unlike most of us had seen,” he said. One of the big changes he recalled were staffing shortages.
 
 “COVID didn’t just affect the general population. Members of our staff also succumbed to the illness during that time, and other people just had fears about COVID, since most of the staff is dealing with the general public every day,” he said.
@@ -70,6 +74,8 @@ Despite changes in her own attendance, she finds joy in helping new friends of h
 
 Some of the parks she suggests are Angel Island State Park, Anza Borrego Desert State Park and China Camp State Park.
 
+<img src="./assets/select-campgrounds.jpg">
+
 Though Fuller doesn’t visit state parks as often anymore, she doesn't see her journey with them as over, but evolving as she does.
 
 “Because I’ve lost the people who usually get me into the outdoors, I’ve started looking for that more in the people that I’m potentially dating. When I’m looking online, seeing someone who looks like they go camping or has anything like that on their profile is definitely a plus.” 
@@ -77,3 +83,35 @@ Though Fuller doesn’t visit state parks as often anymore, she doesn't see her 
 When looking longer-term, Fuller expects her relationship with the Parks to continue to evolve with her.
 
 “I kind of can’t wait until the day I have a family of my own that I can introduce to the parks. It’s always an evolving thing and I can’t wait for the next phase of it.”
+
+
+
+# Data Anaylsis/Diary
+
+Questions to ask in data
+1. How many campers in each park per month? 
+2. What were the months with highest attendance
+3. What are the most popular state parks?
+4. How did park attendance change after the start of the pandemic?
+5. What was the month-to-month attendance for the parks mentioned in my story?
+
+## Process
+The data came in various spreadsheets, broken up by year. 
+
+1) The first thing I noticed was that the format of the dates isn't enough for me to extract each month. To fix this, I changed the date column formate to month/day/year
+
+2) The next thing I needed was to separate the month from the day and year of each cell, since I only need the month. To do that, I made another column and titled it "MONTH." I used a formula: =month(cell number) to create a number that corresponds to the month (1 is January, 2 is February, etc.)
+
+3) Next, needed to get a count of each month for each park. To find the count for each park, I made a pivot table for each dataset. In that table, I specified the the columns as the "park" column and "MONTH. For the values, you'll do a "count." That gave me the count for each month, and allowed me to do all of my data analysis.
+
+
+# Sources: 
+
+1. Andrew Lopez: student at UC Berkeley's Graduate School of Journalism. Andrew grew up in California and grew up going to various CA State parks with his family.
+- email address is andrew_lopez@berkeley.edu
+2. Maggie Fuller: UC Berkeley students. She also grew up camping in CA state parks and has a deep relationship to them. 
+- email address is mfuller@berkeley.edu
+3. Jorge Moreno: Information Officer for CA State Parks. He can help put me in touch with someone who works for the State Parks to talk about how they prepare for the summer and the affects COVID had on park attendance.
+- His phone number is (916) 661-2598.
+
+
