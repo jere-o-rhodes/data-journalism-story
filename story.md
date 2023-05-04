@@ -56,7 +56,7 @@ Martin remembers that the rush was greater than any of his co-workers expected.
 
 <img src="./assets/camping-per-year-upd.jpg">
 
-### [To visualization](https://datawrapper.dwcdn.net/9h0Uj/2/)
+### [To visualization](https://datawrapper.dwcdn.net/cwHP3/1/)
 
 
 “It was unlike most of us had seen,” he said. One of the big changes he recalled were staffing shortages.
@@ -79,7 +79,7 @@ Some of the parks she suggests are Angel Island State Park, Anza Borrego Desert 
 
 <img src="./assets/select-campgrounds-upd.jpg">
 
-### [To visualization](https://datawrapper.dwcdn.net/9h0Uj/1/)
+### [To visualization](https://datawrapper.dwcdn.net/cwHP3/2/)
 
 Though Fuller doesn’t visit state parks as often anymore, she doesn't see her journey with them as over, but evolving as she does.
 
