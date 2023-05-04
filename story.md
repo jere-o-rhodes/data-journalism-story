@@ -77,7 +77,7 @@ Despite changes in her own attendance, she finds joy in helping new friends of h
 
 Some of the parks she suggests are Angel Island State Park, Anza Borrego Desert State Park and China Camp State Park.
 
-<img src="./assets/select-campgrounds-upd.jpg">
+<img src="./assets/upd-select-campgrounds.jpg">
 
 ### [To visualization](https://datawrapper.dwcdn.net/cwHP3/2/)
 
