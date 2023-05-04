@@ -79,7 +79,7 @@ Some of the parks she suggests are Angel Island State Park, Anza Borrego Desert 
 
 <img src="./assets/select-campgrounds-upd.jpg">
 
-### [To visualization](https://datawrapper.dwcdn.net/cwHP3/2/)
+### [To visualization](https://datawrapper.dwcdn.net/9h0Uj/1/)
 
 Though Fuller doesn’t visit state parks as often anymore, she doesn't see her journey with them as over, but evolving as she does.
 
